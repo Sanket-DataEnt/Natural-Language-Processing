@@ -18,3 +18,7 @@ Basic to Advance part of NLP
 
     // deactivate environment
     $ deactivate
+    
+ ## Applications :
+ 
+ **1.Spam Classifier using Flask :**
