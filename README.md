@@ -22,4 +22,4 @@ Basic to Advance part of NLP
  ## Applications :
  
  **1.Spam Classifier using Flask :**
-        SpamClassifier_FlaskApp[https://github.com/Sanket-DataEnt/Natural-Language-Processing/tree/main/SpamClassifier_FlaskApp]
+        [SpamClassifier_FlaskApp](https://github.com/Sanket-DataEnt/Natural-Language-Processing/tree/main/SpamClassifier_FlaskApp)
