@@ -22,3 +22,4 @@ Basic to Advance part of NLP
  ## Applications :
  
  **1.Spam Classifier using Flask :**
+        a. SpamClassifier_FlaskApp
