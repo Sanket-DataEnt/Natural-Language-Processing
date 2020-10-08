@@ -1,5 +1,10 @@
 # Flask App to classify Spam messages
 
+## Deployment pipeline architecture
+
+<img width="1152" alt="Screenshot 2020-10-07 at 11 38 52 PM" src="https://user-images.githubusercontent.com/25937235/95514656-ee918700-09d9-11eb-9af8-358171311689.png">
+
+
 ## Details of the files used to create this APP :
 
     1. training.ipynb : Juputer notebook which is used to train the spam Vs ham messages using Naive Bayes.
