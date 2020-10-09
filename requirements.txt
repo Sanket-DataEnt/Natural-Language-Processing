@@ -3,3 +3,4 @@ sklearn
 ipykernel==5.3.4
 pandas==1.1.3
 Flask==1.1.2
+gensim==3.8.3
