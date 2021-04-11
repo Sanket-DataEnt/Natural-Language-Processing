@@ -23,3 +23,7 @@ Basic to Advance part of NLP
  
  **1.Spam Classifier using Flask :**
         [SpamClassifier_FlaskApp](https://github.com/Sanket-DataEnt/Natural-Language-Processing/tree/main/SpamClassifier_FlaskApp)
+ **2. Loan Prediction Deploymnet using Streamlit :**
+        [Streamlit LoanPrediction](https://github.com/Sanket-DataEnt/Natural-Language-Processing/tree/main/LoanPredictionDeployment_Streamlit)
+ **3. Loan Prediction Deployment using AWS Sagemaker :**
+        [AWS Sagemaker LoanPrediction Deployment](https://github.com/Sanket-DataEnt/Natural-Language-Processing/tree/main/LoanPredictionDeploymentAWS)
